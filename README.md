@@ -1,1 +1,3 @@
 # Hand_written_digit-recognition-Tensorflow-lite-
+This project is all about creating a mobile application,which recognies the handwritten digits using tensorflow lite.
+Going deep into project....
